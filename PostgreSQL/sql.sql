@@ -1,0 +1,15 @@
+-- create table urun
+-- (
+-- id integer primary key not null,
+--    ad varchar(15) not null,
+--    marka varchar(20),
+--    stok integer,
+--    katagori varchar(15)
+--)
+-- create table katagori
+-- (
+-- id integer not null primary key,
+-- ad text
+-- )
+--drop table katagori
+
